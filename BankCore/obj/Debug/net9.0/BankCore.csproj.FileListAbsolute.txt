@@ -1,0 +1,11 @@
+D:\CSharp\Projects\BankProject\BankCore\bin\Debug\net9.0\BankCore.deps.json
+D:\CSharp\Projects\BankProject\BankCore\bin\Debug\net9.0\BankCore.dll
+D:\CSharp\Projects\BankProject\BankCore\bin\Debug\net9.0\BankCore.pdb
+D:\CSharp\Projects\BankProject\BankCore\obj\Debug\net9.0\BankCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Projects\BankProject\BankCore\obj\Debug\net9.0\BankCore.AssemblyInfoInputs.cache
+D:\CSharp\Projects\BankProject\BankCore\obj\Debug\net9.0\BankCore.AssemblyInfo.cs
+D:\CSharp\Projects\BankProject\BankCore\obj\Debug\net9.0\BankCore.csproj.CoreCompileInputs.cache
+D:\CSharp\Projects\BankProject\BankCore\obj\Debug\net9.0\BankCore.dll
+D:\CSharp\Projects\BankProject\BankCore\obj\Debug\net9.0\refint\BankCore.dll
+D:\CSharp\Projects\BankProject\BankCore\obj\Debug\net9.0\BankCore.pdb
+D:\CSharp\Projects\BankProject\BankCore\obj\Debug\net9.0\ref\BankCore.dll
